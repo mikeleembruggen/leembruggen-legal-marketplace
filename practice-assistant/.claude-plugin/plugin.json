@@ -1,6 +1,6 @@
 {
   "name": "practice-assistant",
-  "version": "0.3.2",
+  "version": "0.3.3",
   "description": "AI matter management for small Australian law practices on Microsoft 365 or Google Workspace: morning inbox brief, live matter dashboard, deadline radar, matter summaries, filing and template drafting, with guided setup and scheduled routines.",
   "author": {
     "name": "Michael Leembruggen"

@@ -26,9 +26,10 @@ That's it. You'll get updates automatically.
 
 ## Set up (about 45 minutes)
 
-1. In the Claude desktop app, make sure you're in the chat view (the speech-bubble button at the top left), then click **+ New** at the top of the left sidebar.
-2. Type: **Set up my practice assistant**
-3. Follow along. It goes one step at a time: you name your assistant, turn off model training for privacy, connect your email and documents, choose your daily routines, and test everything on a dummy matter.
+1. In the Claude desktop app, click **+ New** at the top of the left sidebar to start a new conversation. (Use the main Claude view, the speech-bubble button at the top left, not Code.)
+2. If you see a **Chat / Cowork** choice in the bottom-left corner of the message box, choose **Cowork**. If there's no such choice, you have the newer app where they're combined, so just carry on.
+3. Type: **Set up my practice assistant**
+4. Follow along. It goes one step at a time: you name your assistant, turn off model training for privacy, connect your email and documents, choose your daily routines, and test everything on a dummy matter.
 
 You can stop at any point. To pick up where you left off, type **Continue setup**.
 
