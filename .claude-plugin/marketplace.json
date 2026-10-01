@@ -1,0 +1,13 @@
+{
+  "name": "leembruggen-legal",
+  "owner": {
+    "name": "Michael Leembruggen"
+  },
+  "plugins": [
+    {
+      "name": "practice-assistant",
+      "source": "./practice-assistant",
+      "description": "AI matter management for small Australian law practices on Microsoft 365 or Google Workspace."
+    }
+  ]
+}

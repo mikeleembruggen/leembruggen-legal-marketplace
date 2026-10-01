@@ -1,0 +1,6 @@
+.DS_Store
+*.zip
+# Never commit client data: matter registers, emails, client documents
+*.xlsx
+*.eml
+*.msg
