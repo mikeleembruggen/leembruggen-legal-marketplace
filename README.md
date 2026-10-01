@@ -1,10 +1,10 @@
 # leembruggen-legal plugin marketplace
 
-Private Claude plugin marketplace. Contains:
+Claude plugin marketplace. Contains:
 - `practice-assistant/`: the Practice Assistant plugin
 
 ## Install (customer)
-Claude → Customize → Plugins → **Add → Add marketplace** → enter this repository, connect GitHub if asked, then install **Practice Assistant**.
+Claude → Customize → Plugins → **Add → Add marketplace** → enter `mikeleembruggen/leembruggen-legal-marketplace`, then install **Practice Assistant**.
 Alternatively, upload `practice-assistant.plugin` via **Add → Upload plugin**.
 
 ## Release (maintainer)
