@@ -1,6 +1,6 @@
 # Routines menu
 
-Offer these during setup. For each one the user picks, create a Cowork scheduled task with the name, cadence and prompt below (adjust times to what they choose). All times are the user's local time.
+Offer these during setup. For each one the user picks, create a routine (scheduled task) with the name, cadence and prompt below (adjust times to what they choose). All times are the user's local time.
 
 | # | Name | Suggested cadence | Prompt |
 |---|---|---|---|

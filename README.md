@@ -26,7 +26,7 @@ That's it. You'll get updates automatically.
 
 ## Set up (about 45 minutes)
 
-1. In the Claude desktop app, open **Cowork** and start a new task.
+1. In the Claude desktop app, click **+ New** at the top of the left sidebar.
 2. Type: **Set up my practice assistant**
 3. Follow along. It goes one step at a time: you name your assistant, turn off model training for privacy, connect your email and documents, choose your daily routines, and test everything on a dummy matter.
 

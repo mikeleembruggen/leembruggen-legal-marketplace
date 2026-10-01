@@ -11,7 +11,7 @@ Be warm, brief and concrete. **One step at a time**: after each step, wait for c
 
 Open by saying, in two or three sentences, what the assistant will do (morning inbox brief, a live matter dashboard, deadline radar, matter summaries, filing, drafting from their templates), that setup takes about 45 minutes, and that they can stop any time and say "continue setup".
 
-If scheduled tasks don't appear to be available in this session, ask them to open the Claude desktop app in Cowork (or the unified Claude experience), start a new task and say "continue setup".
+If routines (scheduled tasks) don't appear to be available in this session, ask them to open the Claude desktop app, click **+ New** at the top of the left sidebar and say "continue setup".
 
 ---
 
@@ -48,12 +48,12 @@ Start with active matters only.
 ## Step 6: Choose and create routines
 Read `references/routines.md`. Present the routines as a short menu (name, one-line description, suggested time), recommending the starter set (morning brief, dashboard refresh, deadline radar). Let them pick and adjust times.
 
-For each choice, **create the scheduled task** with the name, cadence and prompt from `routines.md`, attached to the project where possible. Prefix each task name with the assistant's name (e.g. "Ramon: Morning brief"). If you can't create it directly, guide them: **Scheduled (left sidebar) → New task**, giving the exact name, frequency and prompt to paste. Confirm each appears on the Scheduled page. Mention scheduled tasks run in the cloud, so they happen even when the computer is off.
+For each choice, **create the scheduled task** with the name, cadence and prompt from `routines.md`, attached to the project where possible. Prefix each task name with the assistant's name (e.g. "Ramon: Morning brief"). If you can't create it directly, guide them: **Routines (left sidebar) → add a new routine**, giving the exact name, frequency and prompt to paste. Confirm each appears under **Routines** in the left sidebar. Mention routines run in the cloud, so they happen even when the computer is off.
 
 ## Step 7: Test with a dummy matter
 - Register row: `TEST-001 | Test Client | Test Other Party | Test | Open | (date 5 days from now): Affidavit due`. Copy `_TEMPLATE matter` to `TEST-001 - Test - Dummy matter`.
 - They email themselves: subject "TEST-001 Directions order", body "Affidavit due Friday".
-- Run each chosen routine once ("Run now" on the Scheduled page, or run the prompt in the project), then build the dashboard. Check TEST-001 appears in Today, Key dates and Open matters.
+- Run each chosen routine once (open it under **Routines** in the left sidebar and run it now, or run the prompt in the project), then build the dashboard. Check TEST-001 appears in Today, Key dates and Open matters.
 - Fix anything off, then delete the test folder, row and email, and refresh the dashboard.
 
 ## Step 8: Optional extras
@@ -61,7 +61,7 @@ For each choice, **create the scheduled task** with the name, cadence and prompt
 - **Auto-filing:** an automation flow can save attachments into matter folders automatically when the matter number is in the subject line: Power Automate on Microsoft 365, Apps Script on Google Workspace. Their provider can add it.
 
 ## Finish
-Fill `references/quick-start-template.md` the same way as Step 4 and present it. Remind them of the three golden habits: matter number in email subjects, add new matters to the register, and it never sends emails (they do). Show where to find the dashboard and the Scheduled page.
+Fill `references/quick-start-template.md` the same way as Step 4 and present it. Remind them of the three golden habits: matter number in email subjects, add new matters to the register, and it never sends emails (they do). Show where to find the dashboard (**Artifacts** in the left sidebar) and their routines (**Routines** in the left sidebar).
 
 ---
 

@@ -11,7 +11,7 @@ AI matter management for small Australian law practices using **Microsoft 365** 
 It never sends emails, never deletes files, and marks any calculated deadline "to verify".
 
 ## Getting started
-After installing, open Cowork and say: **"Set up my practice assistant."** You'll start by giving your assistant a name. Setup takes about 45 minutes and walks you through everything.
+After installing, click **+ New** in the left sidebar and say: **"Set up my practice assistant."** You'll start by giving your assistant a name. Setup takes about 45 minutes and walks you through everything.
 
 ## Requirements
 - A paid Claude plan (Pro, Max, Team or Enterprise) with Cowork
