@@ -8,7 +8,7 @@ Open Claude (desktop app, browser or phone) and go into the **{{ASSISTANT_NAME}}
 One page with today's actions, key dates for the next 30 days, open matters, and anything awaiting a reply or not yet filed. It refreshes automatically each weekday morning if you chose that routine.
 
 ## Your routines
-See them under **Routines** in the left sidebar. To change one, just ask: "Move my morning brief to 8am" or "Add the weekly matter review."
+See them under **Scheduled** in the left sidebar. To change one, just ask: "Move my morning brief to 8am" or "Add the weekly matter review."
 
 ## The five things you'll do most
 

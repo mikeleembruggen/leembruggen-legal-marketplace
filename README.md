@@ -26,7 +26,7 @@ That's it. You'll get updates automatically.
 
 ## Set up (about 45 minutes)
 
-1. In the Claude desktop app, click **+ New** at the top of the left sidebar.
+1. In the Claude desktop app, make sure you're in the chat view (the speech-bubble button at the top left), then click **+ New** at the top of the left sidebar.
 2. Type: **Set up my practice assistant**
 3. Follow along. It goes one step at a time: you name your assistant, turn off model training for privacy, connect your email and documents, choose your daily routines, and test everything on a dummy matter.
 
